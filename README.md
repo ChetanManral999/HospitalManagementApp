@@ -16,8 +16,8 @@ Key Features:
   
 2) Patient Management:
 
-*Patient registration, admission, and discharge processes.
-*Detailed patient profiles with medical history, treatment plans, and appointment scheduling.
+* Patient registration, admission, and discharge processes.
+* Detailed patient profiles with medical history, treatment plans, and appointment scheduling.
 
 3) Doctor and Staff Management:
 
